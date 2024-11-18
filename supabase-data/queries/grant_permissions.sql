@@ -1,0 +1,1 @@
+GRANT ALL ON schema hdr to anon;
